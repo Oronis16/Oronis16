@@ -1,5 +1,6 @@
-<p align="center"><img width="400" vspace="20" src=""></p>
+<p align="center"><img width="400" vspace="20" src="https://raw.githubusercontent.com/Oronis16/Oronis16/main/Successful%20completion%20of%20project.svg"></p>
 
+## Krisztina Andreyka
 
 <!--
 **Oronis16/Oronis16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
