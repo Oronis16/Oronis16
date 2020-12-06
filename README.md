@@ -1,4 +1,4 @@
-<p align="center"><img width="400" vspace="20" src="https://raw.githubusercontent.com/Oronis16/Oronis16/main/Successful%20completion%20of%20project.svg"></p>
+<p align="center"><img width="600" vspace="20" src="https://raw.githubusercontent.com/Oronis16/Oronis16/main/Successful%20completion%20of%20project.svg"></p>
 
 ## Krisztina Andreyka
 
